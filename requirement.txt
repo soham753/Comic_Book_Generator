@@ -1,0 +1,15 @@
+google-genai
+pillow
+dotenv
+langchain
+langchain_community
+langchain_core
+langchain_google_genai
+langchain-groq
+langsmith
+langchain-text-splitters
+langgraph
+ipykernel
+langgraph-cli[inmem]
+reportlab
+streamlit

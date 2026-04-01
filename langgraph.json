@@ -1,0 +1,7 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "comic_agent":"./main.py:graph"
+    },
+    "env":"./.env"
+}
